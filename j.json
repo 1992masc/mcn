@@ -1,0 +1,15 @@
+{
+  "name": "mCoin",
+  "symbol": "MCN",
+  "description": "mCoin",
+  "image": "https://i.ibb.co/2KjvK9m/Untitled.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.ibb.co/2KjvK9m/Untitled.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
